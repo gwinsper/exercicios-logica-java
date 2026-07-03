@@ -1,7 +1,7 @@
 package beecrowd;
 import java.util.Scanner;
 
-public class ex1002 {
+public class AreaCircleEx1002 {
 public static void main(String[]args){
     Scanner sc = new Scanner(System.in);
 

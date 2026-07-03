@@ -16,7 +16,7 @@ Print the number and the employee's salary, according to the given example, with
 package beecrowd;
 import java.util.Scanner;
 
-public class ex1008 {
+public class SalaryEx1008 {
     public static void main(String []args){
 Scanner sc =  new Scanner(System.in);
 

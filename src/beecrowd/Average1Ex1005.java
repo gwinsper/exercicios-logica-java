@@ -15,7 +15,7 @@ Print the message "MEDIA"(average in Portuguese) and the student's average accor
 
 package beecrowd;
 import java.util.Scanner;
-public class ex1005 {
+public class Average1Ex1005 {
     public static void main(String []args){
         Scanner sc = new Scanner (System.in);
 

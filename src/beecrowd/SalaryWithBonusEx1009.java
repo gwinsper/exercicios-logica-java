@@ -16,7 +16,7 @@ Output
 Print the seller's total salary, according to the given example.*/
 package beecrowd;
 import java.util.Scanner;
-public class ex1009 {
+public class SalaryWithBonusEx1009 {
     public static void main(String []args){
 Scanner sc = new Scanner(System.in);
 

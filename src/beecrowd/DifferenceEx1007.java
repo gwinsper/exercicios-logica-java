@@ -11,7 +11,7 @@ Print DIFERENCA (DIFFERENCE in Portuguese) with all the capital letters, accordi
  with a blank space before and after the equal signal.*/
 package beecrowd;
 import java.util.Scanner;
-public class ex1007 {
+public class DifferenceEx1007 {
     public static void main(String []args){
         Scanner sc = new Scanner(System.in);
 

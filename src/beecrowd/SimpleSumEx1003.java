@@ -14,7 +14,7 @@ com um espaço em branco antes e depois da igualdade seguido
 package beecrowd;
 import java.util.Scanner;
 
-public class ex1003 {
+public class SimpleSumEx1003 {
 public static void main(String []args){
     Scanner sc= new Scanner(System.in);
 
