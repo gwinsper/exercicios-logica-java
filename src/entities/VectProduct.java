@@ -1,11 +1,11 @@
 package entities;
 
-public class ArrayProduct {
+public class VectProduct {
 
     private String name;
     private double price;
 
-    public ArrayProduct(String name, double price){
+    public VectProduct(String name, double price){
        this.name = name;
        this.price = price;
     }
